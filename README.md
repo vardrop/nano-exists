@@ -1,5 +1,10 @@
 # nano-exists
 
+[![npm version](https://badge.fury.io/js/nano-exists.svg)](https://badge.fury.io/js/nano-exists)
+[![Dependencies Status](https://david-dm.org/vardrop/nano-exists.svg)](https://david-dm.org/vardrop/nano-exists)
+[![devDependencies Status](https://david-dm.org/vardrop/nano-exists/dev-status.svg)](https://david-dm.org/vardrop/nano-exists?type=dev)
+[![NSP Status](https://nodesecurity.io/orgs/nanoist/projects/f1cb5339-569d-4b6b-8a43-09af762f4325/badge)](https://nodesecurity.io/orgs/nanoist/projects/f1cb5339-569d-4b6b-8a43-09af762f4325)
+
 An async/await existence checker for filesystem modules.
 
 ## Getting Started
@@ -39,5 +44,5 @@ const exists = require('nano-exists')('fs-extra');
 
 ## Built With
 
-* [vardrop/nano-scripts](https://github.com/siddharthkp/cost-of-modules) Shameless selfpromoting
-* [chai](https://github.com/chaijs/chai) & [mocha](https://github.com/mochajs/mocha)
+* [vardrop/nano-scripts](https://github.com/vardrop/nano-scripts) shameless selfpromoting
+* [chai](https://github.com/chaijs/chai) & [mocha](https://github.com/mochajs/mocha) for unit teseting
