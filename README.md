@@ -8,7 +8,7 @@ This is how we roll:
 
 ### Installing
 
-``` npm i nano-exists ```
+``` $ npm i nano-exists ```
 
 ## Usage
 
@@ -32,6 +32,10 @@ with
 ```javascript
 const exists = require('nano-exists')('fs-extra');
 ```
+
+## Tests
+
+``` $ npm run test ```
 
 ## Built With
 
