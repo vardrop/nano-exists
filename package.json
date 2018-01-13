@@ -26,5 +26,9 @@
     "mocha": "^4.1.0",
     "nano-scripts": "0.0.1"
   },
-  "dependencies": {}
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vardrop/nano-exists.git"
+  }
 }
