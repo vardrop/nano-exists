@@ -24,7 +24,7 @@
     "fs-extra": "^5.0.0",
     "license-checker": "^15.0.0",
     "mocha": "^4.1.0",
-    "nano-scripts": "0.0.1"
+    "nano-scripts": "^0.0.5"
   },
   "dependencies": {},
   "repository": {
