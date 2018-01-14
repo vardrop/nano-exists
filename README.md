@@ -43,7 +43,8 @@ const exists = require('nano-exists')('fs-extra');
 ### check(path)
 
 Returns a boolean in an async matter wether `path` exists or not.
-If `path` exists returns true else returns false.
+
+If `path` exists returns `true` else returns `false`.
 
 ## Tests
 
