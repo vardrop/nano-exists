@@ -52,4 +52,4 @@ If `path` exists returns true else returns false.
 ## Built With
 
 * [vardrop/nano-scripts](https://github.com/vardrop/nano-scripts) shameless selfpromoting
-* [chai](https://github.com/chaijs/chai) & [mocha](https://github.com/mochajs/mocha) for unit teseting
+* [chai](https://github.com/chaijs/chai) & [mocha](https://github.com/mochajs/mocha) for unit testing
