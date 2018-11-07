@@ -3,6 +3,7 @@
 [![npm version](https://badge.fury.io/js/nano-exists.svg)](https://badge.fury.io/js/nano-exists)
 [![Dependencies Status](https://david-dm.org/vardrop/nano-exists.svg)](https://david-dm.org/vardrop/nano-exists)
 [![devDependencies Status](https://david-dm.org/vardrop/nano-exists/dev-status.svg)](https://david-dm.org/vardrop/nano-exists?type=dev)
+[![build status](https://travis-ci.org/vardrop/nano-exists.svg?branch=master)](https://travis-ci.org/vardrop/nano-exists)
 
 An async/await wrapper to check if something in the filesystem exists.
 
