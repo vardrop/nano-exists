@@ -52,5 +52,4 @@ If `path` exists returns `true` else returns `false`.
 ## Built With
 
 * [vardrop/license-checker-cli](https://github.com/vardrop/license-checker-cli) shameless selfpromoting
-* [siddharthkp/cost-of-modules](https://github.com/siddharthkp/cost-of-modules) calculating the cost
 * [chai](https://github.com/chaijs/chai) & [mocha](https://github.com/mochajs/mocha) for unit testing
